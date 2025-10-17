@@ -1,18 +1,17 @@
 # 🧠 Foundations of Data Science
 
-> UC Berkeley — *Principles of inference, computation, and reasoning with data.*
+> A comprehensive collection of analytical notebooks exploring data-driven reasoning, visualization, and statistical modeling.
 
-This repository contains my completed labs, homework, and projects from **Foundations of Data Science (Data 8)** at UC Berkeley.  
-It covers the fundamentals of **data analysis, probability, inference, visualization, and regression modeling** — all implemented in Python using the `datascience` library and Jupyter Notebooks.
+This repository presents a structured exploration of **core data science principles**, covering computational thinking, probability, inference, and predictive modeling — all through hands-on analysis and experimentation in Python.
 
 ---
 
 ## 📁 Repository Structure
 
-### 🧩 Labs
-Hands-on coding exercises focusing on core concepts and computational tools for data science.
+### 📘 Modules
+Conceptual and practical notebooks introducing key topics in modern data science — from data manipulation to model evaluation.
 
-| No. | Lab Title |
+| No. | Module Title |
 |:--:|:--|
 | 1 | Expressions |
 | 2 | Table Operations |
@@ -27,10 +26,10 @@ Hands-on coding exercises focusing on core concepts and computational tools for 
 
 ---
 
-### 📘 Homeworks
-Conceptual and applied problem sets covering inference, sampling, and model evaluation.
+### 🧩 Case Studies
+Applied analyses designed to reinforce data science concepts through real-world examples of statistical inference and model testing.
 
-| No. | Homework Title |
+| No. | Case Study Title |
 |:--:|:--|
 | 1 | Causality and Expressions |
 | 2 | Arrays and Tables |
@@ -47,41 +46,39 @@ Conceptual and applied problem sets covering inference, sampling, and model eval
 
 ---
 
-### 🚀 Projects
-Independent analytical projects applying statistical reasoning, visualization, and predictive modeling.
+### 🚀 Capstone Projects
+Independent analytical projects integrating computational reasoning, visualization, and data modeling.
 
-| No. | Project Title | Description |
+| No. | Capstone Title | Description |
 |:--:|:--|:--|
-| 1 | **World Progress** | Analyze indicators of global development and inequality. |
-| 2 | **Diet and Disease** | Examine correlations between dietary factors and disease outcomes. |
-| 3 | **Movie Classification** | Build a classifier to predict movie genres based on textual or numerical features. |
+| 1 | **World Progress** | Analysis of global development indicators and inequality patterns. |
+| 2 | **Diet and Disease** | Correlation study between dietary patterns and disease incidence. |
+| 3 | **Movie Classification** | Classification model predicting movie genres based on quantitative and textual features. |
 
 ---
 
-## 🧰 Technologies Used
+## 🧰 Tools & Libraries
 - Python 3  
 - Jupyter Notebook  
-- `datascience`, `numpy`, `matplotlib`, `pandas`  
-- Statistical reasoning & hypothesis testing  
-- Linear and logistic regression  
+- `numpy`, `pandas`, `matplotlib`, `datascience`  
+- Statistical inference, probability simulation, and regression modeling  
 
 ---
 
-## 📈 Key Learning Outcomes
-- Understanding how to represent and manipulate data programmatically  
-- Building visualizations to explore patterns and trends  
-- Applying probability and simulation to make inferences  
-- Performing hypothesis testing and regression analysis  
-- Writing reproducible notebooks for data analysis  
+## 📈 Focus Areas
+- Data representation and transformation  
+- Visualization-driven exploration and interpretation  
+- Simulation and probabilistic modeling  
+- Statistical inference and hypothesis testing  
+- Predictive modeling through regression and classification  
 
 ---
 
 ## 🧾 License
-This repository is intended for **educational and portfolio purposes only**.  
-Please refrain from copying code for academic submissions.
+This repository is created for **independent study and portfolio presentation** purposes.  
+All analyses are original implementations unless otherwise noted.
 
 ---
 
 **Author:** Jeonghyun Lee  
-**University:** University of California, Berkeley  
-**Major:** Data Science  
+**Field:** Data Science  
