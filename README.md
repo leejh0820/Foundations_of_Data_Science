@@ -72,13 +72,4 @@ Independent analytical projects integrating computational reasoning, visualizati
 - Statistical inference and hypothesis testing  
 - Predictive modeling through regression and classification  
 
----
 
-## 🧾 License
-This repository is created for **independent study and portfolio presentation** purposes.  
-All analyses are original implementations unless otherwise noted.
-
----
-
-**Author:** Jeonghyun Lee  
-**Field:** Data Science  
